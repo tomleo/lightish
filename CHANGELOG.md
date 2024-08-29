@@ -14,13 +14,3 @@ All notable changes to this project will be documented in this file. See [commit
 ### Bug Fixes
 
 * add required package attributes ([b98b64c](https://github.com/tomleo/lightish/commit/b98b64c2e5702cd1e7c6f2066d5ae4d3125bbf0c))
-
-# Change Log
-
-All notable changes to the "lightish" extension will be documented in this file.
-
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
-
-## [Unreleased]
-
-- Initial release
