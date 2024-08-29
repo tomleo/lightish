@@ -1,8 +1,14 @@
 {
   "name": "lightish",
   "displayName": "lightish",
+  "publisher": "lightish",
+  "license": "SEE LICENSE IN LICENSE.md",
   "description": "A lightish theme optimized for regular and blue-light filtering environments",
   "version": "0.0.1",
+  "scripts": {
+    "login": "vsce login",
+    "publish": "vsce publish"
+  },
   "engines": {
     "vscode": "^1.92.0"
   },
