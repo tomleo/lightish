@@ -1,0 +1,26 @@
+{
+  "name": "lightish",
+  "displayName": "lightish",
+  "description": "A lightish theme optimized for regular and blue-light filtering environments",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.92.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "lightish",
+        "uiTheme": "vs",
+        "path": "./themes/lightish-color-theme.json"
+      }
+    ]
+  },
+  "dependencies": {
+    "@commitlint/cli": "^19.4.1",
+    "@commitlint/config-conventional": "^19.4.1",
+    "husky": "^9.1.5"
+  }
+}
